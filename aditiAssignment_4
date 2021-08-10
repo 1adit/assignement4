@@ -5,7 +5,7 @@
    "id": "7b64a73f",
    "metadata": {},
    "source": [
-    "# ASSIGNMENT-4 SHASHANK SHEKHAR\n",
+    "# ASSIGNMENT-4 Aditi singh\n",
     "# 1. Write a function that asks for an integer and prints the square of it. Use a while loop with a try, except, else block to account for incorrect inputs."
    ]
   },
@@ -19,7 +19,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Enter a number: shashank\n",
+      "Enter a number: aditi\n",
       "Please Enter valid input, \n",
       "Enter a number: 6\n",
       "The Square of a number is:   36\n"
